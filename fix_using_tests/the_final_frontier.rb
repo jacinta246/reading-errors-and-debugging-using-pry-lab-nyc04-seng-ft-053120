@@ -9,8 +9,8 @@ def state_log(star_date)
   "Captain's Log, star date #{star_date}."
 end
 
-def engage(date)
-  date = star date
-  puts "Captain's Log, star #{date}
-puts "hello world"
+def engage
+  binding.pry
+  #date = star date
+  #puts "Captain's Log, star #{date}
 end
