@@ -1,4 +1,4 @@
-
+require 'pry'
 def get_user_input
   gets.chomp
 end
@@ -10,6 +10,7 @@ def prompt_user
 end
 
 def selection(num)
+  binding.pry
   if num == 1
      "YUM YUM MUNCH MUNCH MUNCH"
   elsif num == 2
