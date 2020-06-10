@@ -14,5 +14,5 @@ def engage(date)
   binding.pry
   puts "Captain's Log, star #{date}"
   binding.pry
-puts "hello worldlar"
+puts "hello world"
 end
