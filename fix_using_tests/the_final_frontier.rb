@@ -8,6 +8,5 @@ def state_log(star_date)
 end
 
 def engage
-  #date = star date
-  #puts "Captain's Log, star #{date}
+  puts "Captain's Log, star #{date}
 end
