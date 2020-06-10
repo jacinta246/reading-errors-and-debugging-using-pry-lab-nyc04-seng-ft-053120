@@ -11,8 +11,6 @@ end
 
 def engage(date)
   date = star date
-  binding.pry
-  puts "Captain's Log, star #{date}"
-  binding.pry
+  puts "Captain's Log, star #{date}
 puts "hello world"
 end
