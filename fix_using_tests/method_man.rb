@@ -1,6 +1,6 @@
 def start_game(player1, player2)
-  player1=Rocky
-  player2=Bullwinkle
+  player1="Rocky"
+  player2="Bullwinkle"
     "Hello #{player1} & #{player2}"
 end
 
